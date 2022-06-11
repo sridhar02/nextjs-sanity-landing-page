@@ -1,17 +1,82 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
-## Getting Started
+# Landing page
 
-- First, run the development server:
+A simple landing page built on nextjs with sanity as backend.
+
+
+The project has been hosted in the following places and their links:
+
+- Frontend at netlify URL -  https://nextjs-sanity-landing-page.netlify.app/
+
+- Backend Repo URL - https://github.com/sridhar02/sanity-landing-page-studio
+
+- Backend hosted at Netlify URL - https://sanity-studio-landingpage.netlify.app/
+
+- Frontend at Heroku - https://kisi-sanity-landing-page.herokuapp.com/
+
+- Backend at Heroku - 
+## Demo
+
+Link to demo
+
+https://nextjs-sanity-landing-page.netlify.app/
+## Run Locally
+
+Clone the project
 
 ```bash
-yarn dev
+  git clone https://github.com/sridhar02/nextjs-sanity-landing-page
 ```
-- To build the project:
+
+Go to the project directory
+
+```bash
+  cd nextjs-sanity-landing-page
+```
+
+Install dependencies
+
+```bash
+  yarn
+```
+
+Start the server
+
+```bash
+  yarn dev
+```
+
+To Build the project
+
 ```bash
 yarn build
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
+## Screenshots
+
+![Landing page](https://res.cloudinary.com/dfzxo5erv/image/upload/v1654957218/FireShot_Capture_002_-_-_kisi-sanity-landing-page.herokuapp.com_wcoepb.png)
+
+
+## Tech Stack
+
+**Client:** Nextjs, React, TailwindCSS, sanity/cli,sanity/client,get-youtube-id": "^1.0.1
+
+**Server:** sanity basic project for studio 
+
+
+## Environment Variables
+
+To run this project, you will need to add the following environment variables to your .env.local file
+
+`NEXT_PUBLIC_SANITY_PROJECT_ID`
+
+`NEXT_PUBLIC_NODE_ENV`
+
+`NEXT_PUBLIC_SANITY_TOKEN`
+
+
+## Authors
+
+- [@sridhar02](https://www.github.com/sridhar02)
 
