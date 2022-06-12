@@ -1,7 +1,7 @@
 
 # Landing page
 
-A simple landing page built on nextjs with sanity as backend.
+A simple landing page built on Nextjs with sanity as backend.
 
 
 The project has been hosted in the following places and their links:
@@ -15,6 +15,7 @@ The project has been hosted in the following places and their links:
 - Frontend at Heroku - https://kisi-sanity-landing-page.herokuapp.com/
 
 - Backend at Heroku - 
+
 ## Demo
 
 Link to demo
