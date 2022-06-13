@@ -14,13 +14,18 @@ The project has been hosted in the following places and their links:
 
 - Frontend at Heroku - https://kisi-sanity-landing-page.herokuapp.com/
 
-- Backend at Heroku - 
+- Backend at Heroku - Not able to deploy due to some issue 
+
+- For Deployed Backend studio, you can also log in using these credentials: 
+  Email: katta7991@gmail.com
+  password: cPZunIjXqjZ7lZT
 
 ## Demo
 
-Link to demo
+- Link to demo https://nextjs-sanity-landing-page.netlify.app/
 
-https://nextjs-sanity-landing-page.netlify.app/
+- Screen cast link to the webhook https://www.loom.com/share/d07f5e644d4d4f38872f454d6f43dd5e
+
 ## Run Locally
 
 Clone the project
