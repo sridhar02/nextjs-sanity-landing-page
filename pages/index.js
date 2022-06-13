@@ -42,7 +42,7 @@ export default function Home({ data }) {
         <div className="mx-auto max-w-4xl">
           <h1 className="text-3xl">{data?.heading}</h1>
           <div className="font-thin my-4 border-gray-300 opacity-50 border-t-2"></div>
-          <p className="my-4 text-lg leading-7">{data?.subheading}</p>
+          <p className="my-4 text-lg leading-10">{data?.subheading}</p>
         </div>
       </main>
       <main className="pt-16">
